@@ -45,7 +45,7 @@ The variant is determined by which components are populated and by the jumper se
 flowchart LR
     RES["/VRES (Reset)"] -->|"R1 680 Ω + C1 220 pF"| CNT["U2 74HC393 — game counter"]
     CNT -->|"REG21..REG18 (JP3–JP6)"| ROM["U5 MX29LV640 — 8 MB flash"]
-    BUS["Cartridge bus A0–A21"] -->|"BUS (JP3–JP6)"| ROM
+    BUS["Cartridge bus A0–A21"] -->|"BUS A0–A17 (A18–A21 JP3–JP6)"| ROM
     VR["/VRES"] -->|R| LAT["U1A 74HC74 — latch"]
     D0["D0"] -->|D| LAT
     TIME["/TIME"] -->|C| LAT
