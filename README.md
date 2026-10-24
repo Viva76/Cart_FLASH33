@@ -8,8 +8,8 @@
 ![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/KMI-01_page_08.jpg)
 ![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/KMI-01_page_09.jpg)
 ![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/KMI-01_page_10.jpg)
-![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/Cartridge_schematic.jpg)
-
+![Manual](https://github.com/Viva76/Cart_c/blob/main/Images/Manual/Cartridge_schematic.jpg)
+![Плата картриджа front view](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/pcb_front.jpg)
 # Документация
 
 * 📄 **[Чертеж Схема картриджа электрическая USSR](https://github.com/Viva76/Cart_FLASH33/blob/main/docs/Cartridge_schematic_A3.pdf)**
@@ -19,8 +19,8 @@
 * 📋 **[Спецификация компонентов (BOM)](https://Viva76.github.io/Cart_FLASH33/ibom.html)**
 * 📦 **[Gerber-файлы для заказа печатной платы](https://github.com/Viva76/Cart_FLASH33/blob/main/Gerber/Cart_FLAH33-gerber.rar)** 
 
-![Плата картриджа front view](https://github.com/Viva76/Cart_FERAM/blob/main/Images/front.jpg)
-![Плата картриджа back view](https://github.com/Viva76/Cart_FERAM/blob/main/Images/back.jpg)
+![Плата картриджа front view](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/front.jpg)
+![Плата картриджа back view](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/back.jpg)
 
 
 
