@@ -130,7 +130,7 @@ Saves are stored in the U4 SRAM (128 KB), which is kept powered by a battery thr
 
 Vcc is taken from the 5 V rail, Vbat from the battery, and the Vo output goes through R3 (0 Ω) to the SRAM VDD (decoupled by C11). The CS output is high at normal supply voltage and goes low when Vcc drops below approximately 4.2 V; it is connected to the SRAM CE2 pin, so the memory is disabled before the voltage drops further. Below approximately 3.3 V the SRAM supply is switched to the battery. The RESET and CSB outputs are not used.
 
-## Flash programming
+## Flash programming via Flashkit MD
 
 The WE# pin is pulled up to 3.3 V through R2 and is not connected to `/LWR`. The location of test point TP1 makes it possible to write ROM compilations into the flash **without desoldering the chip from the board**, provided that the following conditions are met:
 
