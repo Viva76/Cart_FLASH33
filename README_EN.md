@@ -11,7 +11,7 @@ A universal cartridge built around the MX29LV640EBTI flash memory (8 MB), with o
 
 The variant is determined by which components are populated and by the jumper settings JP1–JP8 (see the tables below).
 
-![Cartridge PCB](https://github.com/Viva76/Cart_FLASH33/blob/main/images/pcb_front.jpg)
+![Cartridge PCB](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/pcb_front.jpg)
 
 ## Table of contents
 
