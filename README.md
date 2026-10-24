@@ -8,7 +8,7 @@
 ![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/KMI-01_page_08.jpg)
 ![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/KMI-01_page_09.jpg)
 ![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/KMI-01_page_10.jpg)
-![Manual](https://github.com/Viva76/Cart_c/blob/main/Images/Manual/Cartridge_schematic.jpg)
+![Manual](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/Manual/Cartridge_schematic.jpg)
 ![Плата картриджа front view](https://github.com/Viva76/Cart_FLASH33/blob/main/Images/pcb_front.jpg)
 # Документация
 
